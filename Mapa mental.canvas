@@ -6,7 +6,7 @@
 		{"id":"f11c1215cee50ab5","type":"file","file":"test_2/Módulos/M1/Semana 3 M1.md","x":-600,"y":1140,"width":400,"height":400},
 		{"id":"6570c1a0a1992fc9","type":"file","file":"test_2/Módulos/M1/Semana 4 M1.md","x":-600,"y":1620,"width":400,"height":400},
 		{"id":"c16824ac5f41e6f7","type":"file","file":"test_2/Proyectos/Proyectos M1 Kata Intro a la Web.md","x":-1240,"y":320,"width":400,"height":400},
-		{"id":"35b0a6476b2620d4","type":"file","file":"test_2/Ejercicios y tareas/Ejercicios y tareas M1.md","x":-1760,"y":320,"width":400,"height":400}
+		{"id":"35b0a6476b2620d4","type":"file","file":"guia de senseis/Ejercicios y tareas/Ejercicios y tareas M1.md","x":-1760,"y":320,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"d7549050d55b663a","fromNode":"a02325e18aff91d8","fromSide":"bottom","toNode":"57d5bfd0234de4be","toSide":"top"},
