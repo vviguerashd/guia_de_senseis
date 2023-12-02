@@ -2,4 +2,4 @@
 Es el borrador de una guía para que los senseis puedan saber qué se tiene que impartir en su módulo asignado.
 
 cool edit
-asdasd Hola amigo 
+asdasd Hola amigo de nuevo x2 x2
