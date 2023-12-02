@@ -1,0 +1,2 @@
+El día cero es una actividad de bienvenida en donde se comparte con los estudiantes qué es DEV.F, la cultura hacker, se tienen actividades que buscan romper el hielo, los datos generales del curso, se les presenta a sus senseis.
+Nos aseguramos que todos los estudiantes tengan acceso a campus.
