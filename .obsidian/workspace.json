@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "78859b0b2ccace4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1592cb96a5fdc79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff73c6ec49b9dfd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guía de Senseis Master en Coding 🧭🥋 先生.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65b66372dd99cd85",
+    "type": "split",
+    "children": [
+      {
+        "id": "b599daaa3fb63536",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d29346eb6d24ef4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c06f6048168a1d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d8fdd4252cc568f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96fc2b60f4603d69",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d44f7cdeca8e799",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93c58aee142de063",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Guía de Senseis Master en Coding 🧭🥋 先生.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a2ceb1f93cc01c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Guía de Senseis Master en Coding 🧭🥋 先生.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5fc420e1ca04e491",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "887c27639b09c477",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Guía de Senseis Master en Coding 🧭🥋 先生.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ff73c6ec49b9dfd7",
+  "lastOpenFiles": []
+}
