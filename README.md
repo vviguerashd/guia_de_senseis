@@ -1,5 +1,1 @@
-# guia_de_senseis_0
-Es el borrador de una guía para que los senseis puedan saber qué se tiene que impartir en su módulo asignado.
-
-cool edit
-asdasd Hola amigo de nuevo x2 x2
+La Guía de senseis te permitirá conocer cuándo deben de entregar sus proyectos tus estudiantes, las tareas y podrás guiarte en la impartición del curso
