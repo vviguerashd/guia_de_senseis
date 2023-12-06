@@ -1,5 +1,5 @@
 ## Intro 
-Esta guía no es un conjunto rígido de reglas, sino más bien una invitación a la creatividad y la adaptabilidad con su grupo. Hemos preparado una serie de sugerencias y recursos que creemos pueden dar forma a un aprendizaje efectivo y estimulante durante las 4 semanas que dura el módulo que se te asignó. Cada idea y actividad propuesta tiene la flexibilidad necesaria para ser moldeada según las necesidades y dinámicas específicas de su grupo de estudiantes. Esta guía va de la mano de las [[Responsabilidades del sensei](Responsabilidades del sensei.md)]
+Esta guía no es un conjunto rígido de reglas, sino más bien una invitación a la creatividad y la adaptabilidad con su grupo. Hemos preparado una serie de sugerencias y recursos que creemos pueden dar forma a un aprendizaje efectivo y estimulante durante las 4 semanas que dura el módulo que se te asignó. Cada idea y actividad propuesta tiene la flexibilidad necesaria para ser moldeada según las necesidades y dinámicas específicas de su grupo de estudiantes. Esta guía va de la mano de las [Responsabilidades del sensei](Responsabilidades del sensei.md)
 
 ## Calendarios 🗓️
 En esta guía encontrarás calendarios con las fechas propuestas de entrega de los proyectos y las tareas que tendrán los estudiantes.
