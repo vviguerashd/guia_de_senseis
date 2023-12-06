@@ -1,5 +1,5 @@
 En esta semana damos la bienvenida a los estudiantes y nos aseguramos de que conozcan cuáles son los [[Ejercicios y tareas M1]] así como los [[Proyectos M1 Kata Intro a la Web]].
-Hay alumnos que ya tienen experiencia desarrollando y podrían adelantar tanto ejercicios como los proyectos.
+Hay alumnos que ya tienen experiencia desarrollando y podrían adelantar tanto ejercicios como los proyectos. 
 ## Clase 1
 Por lo general en la semana uno se tiene [[El día cero]] por lo que la clase 1 dura solo 1:30 hrs. 
 ## Clase 2
