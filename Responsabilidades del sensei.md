@@ -1,3 +1,5 @@
+El sensei tiene 5 responsabilidades en DEV.F
+
 1.- Preparar las clases
  Los senseis tienen **la responsabilidad de llegar a la llamada con su clase preparada**, para ello tienen que ponerse de acuerdo con su cosensei, 
  
@@ -13,4 +15,4 @@
  Los senseis tienen la **responsabilidad de participar en el seguimiento de los senseis** que puede ser por medio de llamadas tipo post mortem, encuestas y correos electrónicos.
  
 5.- Revisar los proyectos y tareas de los estudiantes
- Los senseis tienen **la responsabilidad de revisar los proyectos y tareas** de los estudiantes. Los estudiantes entregan proyectos y tareas en campus. [[La revisión de proyectos y tareas]] se hace por medio de campus, una vez que los estudiantes lo suban.
+ Los senseis tienen **la responsabilidad de revisar los proyectos y tareas** de los estudiantes. Los estudiantes entregan proyectos y tareas en campus. [La revisión de proyectos y tareas](/La%20revisión%20de%20proyectos%20y%20tareas.md) se hace por medio de campus, una vez que los estudiantes lo suban.
