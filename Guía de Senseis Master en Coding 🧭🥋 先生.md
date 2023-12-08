@@ -36,7 +36,7 @@ A los alumnos se les puede solicitar que entreguen un link con el código del pr
 Aquí tienes el paso a paso para [La revisión de proyectos y tareas](/La%20revisión%20de%20proyectos%20y%20tareas.md), que se hace por campus en donde podemos ver quién entregó su proyecto y dar retroalimentación . 
 
 ## Proyectos 🏁
-Durante el master a los estudiantes se les pide (entre otras cosas) que entreguen el 100% de los proyectos planteados en campus para la [[Garantía de empleabilidad]]. 
+Durante el master a los estudiantes se les pide (entre otras cosas) que entreguen el 100% de los proyectos planteados en campus para la [Garantía de empleabilidad](/Garantía%20de%20empleabilidad.md). 
 Recuerda que las fechas pueden cambiar de acuerdo a cada grupo y no hay problema si se entregan antes estos proyectos.
 
 [Proyectos M1 Kata Intro a la Web](/Proyectos/Proyectos%20M1%20Kata%20Intro%20a%20la%20Web.md) Tiene 3 proyectos
