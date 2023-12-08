@@ -1,7 +1,7 @@
 
 ## Objetivo del módulo
 
- **Obtener los conocimientos básicos sobre desarrollo de SPAs con React.js para crear aplicaciones robustas del lado del cliente.**. 
+ **Obtener los conocimientos básicos sobre desarrollo de SPAs con React.js para crear aplicaciones robustas del lado del cliente.** 
 
 ## Calendario de temas
 |                          Temas Módulo 5                         |S1 |S2 |S3| S4  |

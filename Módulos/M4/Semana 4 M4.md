@@ -8,12 +8,13 @@
 |Desarrollo y presentación de pruebas de empleabilidad|x|x|
 
 ## Ejercicios
-Los ejercicios que proponemos para esta semana pueden ser:
-- **Ejercicio 5: Funciones**
-- **Ejercicio 6: HTML + CSS + DOM**
-[[Ejercicios y tareas M1]]
+Para esta semana ya deberían tener todos los ejercicios entregados
+
+[Ejercicios y tareas M4](/Ejercicios%20y%20tareas/Ejercicios%20y%20tareas%20M4.md)
 
 ## Proyectos
-El proyecto de este módulo se tiene que entregar en esta semana:
-- El cajero Automático
-[[Proyectos M2 Kata JS]]
+En este módulo tenemos dos proyectos y esperamos que los alumnos entreguen en esta semana el de:
+
+- Pokedex
+
+[Proyectos M4 Kata JS Avanzado](/Proyectos/Proyectos%20M4%20Kata%20JS%20Avanzado.md)

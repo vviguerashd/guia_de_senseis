@@ -1,4 +1,4 @@
-Damos la bienvenida a los estudiantes y nos aseguramos de que conozcan cuáles son los [[Ejercicios y tareas M3]] así como los [[Proyectos M3 Kata Computer Science]].
+Damos la bienvenida a los estudiantes y nos aseguramos de que conozcan cuáles son los [Ejercicios y tareas M6](/Ejercicios%20y%20tareas/Ejercicios%20y%20tareas%20M6.md) así como los [Proyectos M6 Frontend Avanzado](/Proyectos/Proyectos%20M6%20Kata%20Frontend%20Avanzado.md).
 Hay alumnos que ya tienen experiencia desarrollando y podrían adelantar tanto ejercicios como los proyectos.
 ## Clase 1
 

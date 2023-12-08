@@ -9,11 +9,13 @@
 
 ## Ejercicios
 Los ejercicios que proponemos para esta semana pueden ser:
-- **Ejercicio 5: Funciones**
-- **Ejercicio 6: HTML + CSS + DOM**
-[[Ejercicios y tareas M1]]
+- **Ejercicio 5: Consultas SQL**
+- **Ejercicio 6: Mini-Proyecto Concentrador Análisis y Diseño SQL**
+
+[Ejercicios y tareas M7](/Ejercicios%20y%20tareas/Ejercicios%20y%20tareas%20M7.md)
 
 ## Proyectos
 El proyecto de este módulo se tiene que entregar en esta semana:
 - El cajero Automático
-[[Proyectos M2 Kata JS]]
+
+[Proyectos M7](/Proyectos/Proyectos%20M7%20Kata%20Backend.md)

@@ -9,12 +9,13 @@
 
 ## Ejercicios
 Los ejercicios que proponemos para esta semana pueden ser:
-- **Ejercicio 3: Estructuras de control: WHILE**
-- **Ejercicio 4: Estructuras de control: FOR**
-- **Ejercicio 5: Funciones**
-[[Ejercicios y tareas M2]]
+- **Ejercicio 2: ASYNC**
+
+[Ejercicios y tareas M4](/Ejercicios%20y%20tareas/Ejercicios%20y%20tareas%20M4.md)
 
 ## Proyectos
-En este módulo solo tenemos un proyecto:
-- El cajero Automático
-[[Proyectos M2 Kata JS]]
+En este módulo tenemos dos proyectos y esperamos que los alumnos entreguen en esta semana el de:
+
+- Trivia App
+
+[Proyectos M4 Kata JS Avanzado](/Proyectos/Proyectos%20M4%20Kata%20JS%20Avanzado.md)

@@ -1,18 +1,23 @@
 ## Objetivo del módulo
 
- **Obtener bases muy sólidas de programación con JavaScript. Emplear estas bases para aprender a manipular documentos HTML mediante el DOM y el manejo de eventos**. 
+ **Conocer cómo trabajar con React Funcional, Hooks y técnicas avanzadas como Higher Order Components, Context API, manejo de token de sesión, buenas prácticas y testing**. 
 
 ## Calendario de temas
-|                          Temas Módulo 2                         |                         |
+|                          Temas Módulo 6                         |S1 |S2 |S3 |S4  |
 |-----------------------------------------------------|:--------:|:-----:|:-----:|:-----:|
-|                                                       |    S1    |   S2  |   S3  |   S4  |
-| Introducción al Módulo                                |   **x**  |       |       |       |
-| JavaScript                                      |   **x**  |       |       |       |
-| Estructuras de Control                           |    |     **x**   |       |       |
-| Funciones                                   |    |      **x**  |       |       |
-| CSS Frameworks                                           |    |    **x**    |       |       |
-|DOM                                         |     |       |     **x**   |        |
-|Desarrollo y presentación de pruebas de empleabilidad||||**x**|
+| Introducción al Módulo                                |  x   |       |       |       |
+| Project Structure                                      |  x   |       |       |       |
+| CSS Pre-procesors                           |  x  |        |       |       |
+| CSS Architectures                                   |  x  |        |       |       |
+| Hooks Avanzados                                           |  x  |       |       |       |
+| React Avanzado                                         |  x   |  x     |        |        |
+| Testing||x|||
+| Architecture||x|x||
+| Deployment|||x||
+| Redux|||x||
+| Server Side Rendering|||x||
+| Desarrollo y presentación de pruebas de empleabilidad||||x|
+
 
 ## Semana 1
 
@@ -25,14 +30,11 @@
 ## Ejercicios y tareas
 | Tareas/Ejercicios                   | S1 | S2 | S3 | S4 |
 |-------------------------------------|:----:|:----:|:----:|:----:|
-| Ejercicio 1: Condicionales                   |    |  x  |    |    |
-| Ejercicio 2: Arreglos         |    |  x  |    |    |
-| Ejercicio 3: Estructuras de control: WHILE    |    |    |  x  |    |
-| Ejercicio 4: Estructuras de control: FOR |    |    |   x |    |
-| Ejercicio 5: Funciones    |    |    |    x|    |
-| Ejercicio 6: HTML + CSS + DOM ||||x|
+| Ejercicio 1: Autencitcación                   |    |  x  |    |    |
+| Ejercicio 2: Testing         |    |   |  x   |    |
+
 
 ## Proyectos
 | Proyectos                            | S1 | S2 | S3 | S4 |
 |---------------------------------------|:--:|:--:|:--:|:--:|
-| Cajero Automático                      |    |   |    |  x  |
+| e-Commerce con React                      |    |   |    |  x  |

@@ -3,15 +3,17 @@
  **Obtener bases muy sólidas de programación con JavaScript. Emplear estas bases para aprender a manipular documentos HTML mediante el DOM y el manejo de eventos**. 
 
 ## Calendario de temas
-|                          Temas Módulo 2                         |                         |
+|                          Temas Módulo 7                         |S1|S2|S3|S4             |
 |-----------------------------------------------------|:--------:|:-----:|:-----:|:-----:|
-|                                                       |    S1    |   S2  |   S3  |   S4  |
 | Introducción al Módulo                                |   **x**  |       |       |       |
-| JavaScript                                      |   **x**  |       |       |       |
-| Estructuras de Control                           |    |     **x**   |       |       |
-| Funciones                                   |    |      **x**  |       |       |
-| CSS Frameworks                                           |    |    **x**    |       |       |
-|DOM                                         |     |       |     **x**   |        |
+| Intro a Bases de Datos                                      |   **x**  |       |       |       |
+| Teoría y Diseño SQL                           | **x**   |        |       |       |
+| PostgreSQL                                   |  **x**  |       |       |       |
+| Práctica SQL                                           |    |    **x**    |       |       |
+| REST APIs                                         |     |  **x**     |      |        |
+| Express.js||**x**|**x**||
+| Backend + SQL|||**x**||
+| Deployment|||**x**||
 |Desarrollo y presentación de pruebas de empleabilidad||||**x**|
 
 ## Semana 1
@@ -25,14 +27,14 @@
 ## Ejercicios y tareas
 | Tareas/Ejercicios                   | S1 | S2 | S3 | S4 |
 |-------------------------------------|:----:|:----:|:----:|:----:|
-| Ejercicio 1: Condicionales                   |    |  x  |    |    |
-| Ejercicio 2: Arreglos         |    |  x  |    |    |
-| Ejercicio 3: Estructuras de control: WHILE    |    |    |  x  |    |
-| Ejercicio 4: Estructuras de control: FOR |    |    |   x |    |
-| Ejercicio 5: Funciones    |    |    |    x|    |
-| Ejercicio 6: HTML + CSS + DOM ||||x|
+| Ejercicio 1: Intro a Diseño SQL                   |    |  x  |    |    |
+| Ejercicio 2: Intro a Diseño SQL (Parte 2)         |    |  x  |    |    |
+| Ejercicio 3: Diseño SQL + Creación de Tablas en PostgreSQL   |    |    |  x  |    |
+| Ejercicio 4: Intro a Express.js |    |    |   x |    |
+| Ejercicio 5: Consultas SQL  |    |    |    | x   |
+| Ejercicio 6: Mini-Proyecto Concentrador Análisis y Diseño SQL ||||x|
 
 ## Proyectos
-| Proyectos                            | S1 | S2 | S3 | S4 |
-|---------------------------------------|:--:|:--:|:--:|:--:|
-| Cajero Automático                      |    |   |    |  x  |
+| Proyecto                   | S1 | S2 | S3 | S4 |
+|-------------------------------------|:----:|:----:|:----:|:----:|
+| Tinder para Habilidades Personales                  |    |    |    | x   |

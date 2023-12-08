@@ -1,4 +1,4 @@
-Damos la bienvenida a los estudiantes y nos aseguramos de que conozcan cuáles son los [[Ejercicios y tareas M5]] así como los [[Proyectos M5 Kata Frontend]].
+Damos la bienvenida a los estudiantes y nos aseguramos de que conozcan cuáles son los [Ejercicios y tareas M5](/Ejercicios%20y%20tareas/Ejercicios%20y%20tareas%20M5.md) así como los [Proyectos M5 Kata Frontend](/Proyectos/Proyectos%20M5%20Kata%20Frontend.md).
 Hay alumnos que ya tienen experiencia desarrollando y podrían adelantar tanto ejercicios como los proyectos.
 ## Clase 1
 
@@ -20,10 +20,14 @@ Hay alumnos que ya tienen experiencia desarrollando y podrían adelantar tanto e
 ## Presentaciones
 
 ## Ejercicios
-Proponemos que esta semana solo se centren los estudiantes en saber que el ejercicio del módulo será el de: React Issues
-[[Ejercicios y tareas M5]]
+Proponemos que esta semana solo se centren los estudiantes en saber que el ejercicio del módulo será el de: 
+- React Issues
+
+[Ejercicios y tareas M5](/Ejercicios%20y%20tareas/Ejercicios%20y%20tareas%20M5.md)
+
 ## Proyectos
 En este módulo solo tenemos un proyecto:
 - IMDB
-[[Proyectos M5 Kata Frontend]]
+
+[Proyectos M5 Kata Frontend](/Proyectos/Proyectos%20M5%20Kata%20Frontend.md)
 

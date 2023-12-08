@@ -8,13 +8,13 @@
 |DOM|x|x|
 
 ## Ejercicios
-Los ejercicios que proponemos para esta semana pueden ser:
-- **Ejercicio 3: Estructuras de control: WHILE**
-- **Ejercicio 4: Estructuras de control: FOR**
-- **Ejercicio 5: Funciones**
-[[Ejercicios y tareas M2]]
+En esta semana les dejamos el ejercicio del módulo será el de: 
+- React Issues
+
+[Ejercicios y tareas M5](/Ejercicios%20y%20tareas/Ejercicios%20y%20tareas%20M5.md)
 
 ## Proyectos
 En este módulo solo tenemos un proyecto:
-- El cajero Automático
-[[Proyectos M2 Kata JS]]
+- IMBD
+
+[Proyectos M5 Kata Frontend](/Proyectos/Proyectos%20M5%20Kata%20Frontend.md)

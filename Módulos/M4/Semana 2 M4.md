@@ -12,8 +12,13 @@
 ## Ejercicios
 El ejercicio que proponemos para esta semana puede ser:
 - **Ejercicio 1: Callback**
-[[Ejercicios y tareas M4]]
+
+[Ejercicios y tareas M4](/Ejercicios%20y%20tareas/Ejercicios%20y%20tareas%20M4.md)
+
 ## Proyectos
-En este módulo solo tenemos un proyecto:
-- El cajero Automático
-[[Proyectos M4 Kata JS Avanzado]]
+En este módulo tenemos dos proyectos que vale la pena vayan conociendo los estudiantes:
+
+- Trivia App
+- Pokedex
+
+[Proyectos M4 Kata JS Avanzado](/Proyectos/Proyectos%20M4%20Kata%20JS%20Avanzado.md)
