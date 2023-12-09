@@ -7,7 +7,7 @@ En esta guía encontrarás calendarios con las fechas propuestas de entrega de l
  Spreadsheet donde verás los días que inician todos los módulos, días de descanso y periodos de vacaciones.
 
 ## Perks/Beneficios del sensei
-Hemos unido al momento [en este documento](/) los beneficios exclusivos para senseis. Les presentamos estas ventajas con la esperanza de que las disfruten y st entusiasmes al utilizarlas. ¡Descúbrelas y aprovéchalas al máximo!
+Hemos unido al momento [en este documento](/Perks%20del%20sensei.md) los beneficios exclusivos para senseis. Les presentamos estas ventajas con la esperanza de que las disfruten y st entusiasmes al utilizarlas. ¡Descúbrelas y aprovéchalas al máximo!
 
 ## Anatomía de una clase ⏱️
 Proponemos una clase de acuerdo a la experiencia que tenemos, en donde se tiene un espacio para teoría, ejercicios live coding por parte del sensei, descanso y espacio para preguntas/respuestas.
