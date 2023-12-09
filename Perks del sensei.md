@@ -34,7 +34,9 @@ Los senseis son libres de compartir su link personalizado por el medio que consi
 
 ### Pasos para ser parte del programa Referido de Senseis
 1.- El sensei tiene que tiene que aceptar que conoce las condiciones y recompensas del programa.
+
 2.- Al sensei se le otorga una liga personalizada para compartir con sus referidos
+
 3.- Se le comparte la carpeta con el material que puede compartir en redes sociales
 
 ### ¿Cuándo se haran los pagos a los senseis?
