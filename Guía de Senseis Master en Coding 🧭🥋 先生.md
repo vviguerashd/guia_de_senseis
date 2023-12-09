@@ -5,6 +5,10 @@ Esta guía no es un conjunto rígido de reglas, sino más bien una invitación a
 En esta guía encontrarás calendarios con las fechas propuestas de entrega de los proyectos y las tareas que tendrán los estudiantes.
  ### [Calendario operativo](https://docs.google.com/spreadsheets/d/1Y1xmjy7IqYmHJHGcoDkhKBUcnff051IK4eTE5eK6bZU/edit#gid=1164278491)
  Spreadsheet donde verás los días que inician todos los módulos, días de descanso y periodos de vacaciones.
+
+## Perks/Beneficios del sensei
+Hemos unido al momento [en este documento](/) los beneficios exclusivos para senseis. Les presentamos estas ventajas con la esperanza de que las disfruten y st entusiasmes al utilizarlas. ¡Descúbrelas y aprovéchalas al máximo!
+
 ## Anatomía de una clase ⏱️
 Proponemos una clase de acuerdo a la experiencia que tenemos, en donde se tiene un espacio para teoría, ejercicios live coding por parte del sensei, descanso y espacio para preguntas/respuestas.
 Sabemos que no podemos modelar una clase ideal y la evolución de la misma depende del grupo.
