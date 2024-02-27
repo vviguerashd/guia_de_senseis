@@ -69,16 +69,7 @@
       + Inorden
       + Preorden
       + Postorden
-
-**Propuesta 2** 
-+ Estructuras de datos
-  + Lineales
-    + Lista enlazada 
-    + Pila (nodos)
-    + Cola (nodos)
-  + No lineales
-    + Tablas hash
-      + Funciones hash      
+   
 
 #### Lecturas de campus después de clase
 + Estructuras de datos (el resto de la lectura no leída previamente)
