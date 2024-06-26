@@ -14,12 +14,13 @@
 |Desarrollo y presentación de pruebas de empleabilidad||||**x**|
 
 ## Semana 1
-
+[Detalles](/Módulos/M2/Semana%201%20M2.md)
 ## Semana 2
-
+[Detalles](/Módulos/M2/Semana%202%20M2.md)
 ## Semana 3
-
+[Detalles](/Módulos/M2/Semana%203%20M2.md)
 ## Semana 4
+[Detalles](/Módulos/M2/Semana%204%20M2.md)
 
 ## Ejercicios y tareas
 | Tareas/Ejercicios                   | S1 | S2 | S3 | S4 |
