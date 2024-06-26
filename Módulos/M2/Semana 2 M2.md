@@ -1,23 +1,27 @@
-## Clase 1
+## Clase 3
+- Repaso de if if-else
+- Ciclo for
 
-## Clase 2
+## Clase 4
+- Funciones
+- Scope
 
 ## Temas
-|TEMAS   | Clase 1| Clase 2|
+|TEMAS   | Clase 3| Clase 4|
 |---|:---:|:---:|
 |Estructuras de Control|x||
-|Funciones|x|x|
-|CSS Frameworks||x|
+|Funciones||x|
+|Scope||x|
 
-## Ejercicios
-Los ejercicios que proponemos para esta semana pueden ser:
-- **Ejercicio 1: Condicionales**
-- **Ejercicio 2: Arreglos**
+## Ejercicios y Presentaciones
+Se les pusieron los ejercicios propuestos en la diapostivias.
 
-[Ejercicios y tareas M2](/Ejercicios%20y%20tareas/Ejercicios%20y%20tareas%20M2.md)
+[Estructuras de control](https://docs.google.com/presentation/d/1sTyul24WiJRPGrq5KixSqzyPGkUhlzF1cX4A57QUw9I/edit?usp=sharing)
+
+[Funciones](https://docs.google.com/presentation/d/1EGRKLQAWRkUAQM_cDDRenun18oBOEqXurdRZ-1ndmyE/edit#slide=id.ge19141f029_0_31)
+
 
 ## Proyectos
-En este módulo solo tenemos un proyecto:
-- El cajero Automático
+Para esta semana aun no se trabaja en el proyecto final.
 
-[Proyectos M2 Kata JS](/Proyectos/Proyectos%20M2%20Kata%20JS.md)
+
