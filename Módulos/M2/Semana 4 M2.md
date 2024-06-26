@@ -1,21 +1,24 @@
-## Clase 1
+## Clase 7
+**_para esta clase se una una plantilla pre establecida para el proyecto del cajero_**
 
-## Clase 2
+Clase de repaso, con el proyecto del Cajero 
+
+## Clase 8
+- Platica de inquietudes y dudas de los alumnos, recoger el sentir de los alumnos y ver que se puede mejorar en el curso
+
+Seguimos con la clase de repaso, con el proyecto del Cajero 
+para esta clase se una una plantilla pre establecida para el proyecto del cajero
 
 ## Temas
-|TEMAS   | Clase 1| Clase 2|
+|TEMAS   | Clase 7| Clase 8|
 |---|:---:|:---:|
-|Desarrollo y presentación de pruebas de empleabilidad|x|x|
+|Repaso de proyecto|x|x|
 
 ## Ejercicios
 Los ejercicios que proponemos para esta semana pueden ser:
-- **Ejercicio 5: Funciones**
-- **Ejercicio 6: HTML + CSS + DOM**
+Por retroalimentación de los alumnos se propone realizar el proyecto del cajero automático
 
-[Ejercicios y tareas M2](/Ejercicios%20y%20tareas/Ejercicios%20y%20tareas%20M2.md)
+[Proyecto Cajero](https://github.com/cchavezmx/atm.git)
 
 ## Proyectos
-El proyecto de este módulo se tiene que entregar en esta semana:
-- El cajero Automático
-
-[Proyectos M2 Kata JS](/Proyectos/Proyectos%20M2%20Kata%20JS.md)
+Se propone realizar el proyecto del cajero automático
