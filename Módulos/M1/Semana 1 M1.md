@@ -10,7 +10,7 @@ Dejando cómo tares que lo hagan en sus computadoras, pueden usar la lectura "In
 2- [Introducción a la Web + Herramientas](https://docs.google.com/presentation/d/1y-gbc-lpk-2ymlrKUFwgNcERX4ASi6MNrlgUtB7ZKfs/edit#slide=id.ge8a3534daf_0_13)
 
 ## Clase 2
-En esta clase empezamos revisando la tarea de cuentas, priorizando que instalaran VSCODE, vamos a trabajar los conceptos de HTML con el mínimo de etiquetas posibles cómo para ir creando un CV.
+En esta clase empezamos revisando la tarea de cuentas, priorizando que instalaran VSCode, vamos a trabajar los conceptos de HTML con el mínimo de etiquetas posibles cómo para ir creando un CV.
 
 1- [Presentación del módulo](https://docs.google.com/presentation/d/148T3W72yq_zENZGyQBfyYvOwP49PUnAlNAFdaJV1SpA/edit#slide=id.ge170674fc1_0_10)
 
@@ -76,8 +76,8 @@ Inicia con las etiquetas básicas y crea un CV de ejemplo para que puedan ir inv
 |HTML||x|
 
 ## Presentaciones
-
-
+- [Presentación del módulo](https://docs.google.com/presentation/d/1ZZ928dubb6hrS8YgTvRC1Jh3xy-s3le1uKWAZTry17s/edit#slide=id.g2be3bcf44fd_0_83)
+- [Introducción a la Web + Herramientas](https://docs.google.com/presentation/d/1y-gbc-lpk-2ymlrKUFwgNcERX4ASi6MNrlgUtB7ZKfs/edit#slide=id.ge8a3534daf_0_13)
 
 ## Ejercicios
 Los ejercicios que proponemos para esta semana pueden ser:
