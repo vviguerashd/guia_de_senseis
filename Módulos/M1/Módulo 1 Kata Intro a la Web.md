@@ -11,11 +11,12 @@
 | Herramientas del Navegador                            |   **x**  |       |       |       |
 | Visual Studio Code                                    |   **x**  |       |       |       |
 | Terminal                                              |   **x**  |       |       |       |
-| Git & Github                                          |   **x**  |       |       |       |
+| Git & Github (Sólo crear cuenta y descarga)           |   **x**  |       |       |       |
 | HTML                                                  |   **x**  | **x** |       |       |
 | CSS                                                   |          | **x** | **x** |       |
 | Responsive Design                                     |          |       | **x** |       |
 | Web Best Practices                                    |          |       | **x** |       |
+| Git & Github (carga de proyectos)                     |          |       |       | **x** |
 | Desarrollo y presentación de pruebas de empleabilidad |          |       |       | **x** |
 
 ## Semana 1
@@ -30,17 +31,14 @@ En esta [Semana 3 M1](/Módulos/M1/Semana%203%20M1.md) los estudiantes deberán 
 En la [Semana 4 M1](/Módulos/M1/Semana%204%20M1.md) podrán manipular sus proyectos con un Responsive Design, conocerán también que son las convenciones y mejores prácticas, así como el SEO básico y las ventajas de usar la Accesibilidad.
 ## Ejercicios y tareas
 
-| Tareas/Ejercicios                   | S1 | S2 | S3 | S4 |
-|-------------------------------------|:----:|:----:|:----:|:----:|
-| Ejercicio 1: HTML                   |  x  |    |    |    |
-| Ejercicio 2: HTML Semántico         |    |  x  |    |    |
-| Ejercicio 3: CSS-Estilos Básicos    |    |  x  |    |    |
-| Ejercicio 4: CSS-Box model y floats |    |    |  x  |    |
-| Ejercicio 5: CSS-Flexbox & Grid     |    |    |    |  x  |
+| Tareas/Ejercicios                         | S1 | S2  | S3  | S4 |
+|-------------------------------------------|:----:|:----:|:----:|:----:|
+| Ejercicio 1: Cuentas                      |  x |     |    |    |
+| Ejercicio 2: HTML Semántico               |    |  x  |    |    |
+| Ejercicio 3: Tu primer CV en web: Parte 1 |    |  x  |    |    |
+| Ejercicio 3: Tu primer CV en web: Parte 2 |    |     |  x |    |
 ## Proyectos
 
-| Proyectos                            | S1 | S2 | S3 | S4 |
-|---------------------------------------|:--:|:--:|:--:|:--:|
-| Tu primer CV en web                      |    |  x |    |    |
-| Clon de Google          |    |   |  x  |    |
-|  Pinterest    |    |    |   |  x  |
+| Proyectos                           | S1 | S2 | S3 | S4 |
+|-------------------------------------|:--:|:--:|:--:|:--:|
+|  Un sitio famoso                    |    |    |   |  x  |
